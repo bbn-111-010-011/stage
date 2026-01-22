@@ -1,10 +1,10 @@
 #                                                                                                                                 stage
 
 
-                                                                                                                        PROJET  :DJACKS 
+                                                                                     PROJET  :DJACKS 
 ---
 
-                                                                                                                        DESCRIPTION DU PROJET 
+                                                                                    DESCRIPTION DU PROJET 
 
 CREATION D'UN SITE INTERNET AVEC  AGENT IA DE DISCUSSION 
 -
@@ -15,7 +15,7 @@ BDD
 -
 
 ---
-                                                                                                                       VUE D’ENSEMBLE DU CHEMIN
+                                                                                    VUE D’ENSEMBLE DU CHEMIN
 ---
 
 
@@ -43,7 +43,7 @@ Tests et amélioration continue
 
 
                                                             
-                                                                                                                        ETAPE DU PROJET 
+                                                                                 ETAPE DU PROJET 
 
  Fonctionnalité  :
 -
@@ -61,7 +61,7 @@ Fonctionnalité :
 
 
 
-                                                                                                                     TECHNOLOGIE 
+                                                                             TECHNOLOGIE 
 
 - Frontend : HTML5, CSS3, JavaScript 
 - Backend :MYySql ; Php , PhpMyAdmin , Api 
