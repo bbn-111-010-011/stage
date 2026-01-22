@@ -14,7 +14,7 @@ CREATION AGENT IA PRISE DE RDV ...
 
 ---
 🧭 VUE D’ENSEMBLE DU CHEMIN
-
+---
 Définir le rôle du chatbot
 
 Choisir le type d’agent IA
