@@ -1,10 +1,11 @@
 #                                                                                                                                 stage
 
 
-                                                                                     PROJET  :DJACKS 
+                           PROJET  :DJACKS 
 ---
 
-                                                                                    DESCRIPTION DU PROJET 
+
+                          DESCRIPTION DU PROJET 
 
 CREATION D'UN SITE INTERNET AVEC  AGENT IA DE DISCUSSION 
 -
@@ -14,9 +15,17 @@ CREATION AGENT IA PRISE DE RDV ...
 BDD
 -
 
+
+
 ---
-                                                                                    VUE D’ENSEMBLE DU CHEMIN
+
+
+
 ---
+                        VUE D’ENSEMBLE DU CHEMIN
+---
+
+
 
 
 Définir le rôle du chatbot : Chatbot simple  ( FAQ , support ) 
@@ -43,7 +52,7 @@ Tests et amélioration continue
 
 
                                                             
-                                                                                 ETAPE DU PROJET 
+                      ETAPE DU PROJET 
 
  Fonctionnalité  :
 -
