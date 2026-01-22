@@ -5,7 +5,7 @@
 ---
 
 
-                          DESCRIPTION DU PROJET 
+                         OBJECTIF DU PROJET 
 
 CREATION D'UN SITE INTERNET AVEC  AGENT IA DE DISCUSSION 
 -
