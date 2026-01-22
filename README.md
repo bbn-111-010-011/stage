@@ -1,10 +1,10 @@
 #                                                                                                                                 stage
 
 
-                                                              PROJET  :DJACKS 
+                                                                  PROJET  :DJACKS 
 ---
 
-                                                              DESCRIPTION DU PROJET 
+                                                                  DESCRIPTION DU PROJET 
 
 CREATION D'UN SITE INTERNET AVEC  AGENT IA DE DISCUSSION 
 -
@@ -13,8 +13,10 @@ CREATION AGENT IA PRISE DE RDV ...
 
 
 ---
-🧭 VUE D’ENSEMBLE DU CHEMIN
+                                                                🧭 VUE D’ENSEMBLE DU CHEMIN
 ---
+
+
 Définir le rôle du chatbot
 
 Choisir le type d’agent IA
