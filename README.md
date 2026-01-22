@@ -1,10 +1,10 @@
 # stage
 
 
-                                                              Projet :DJACKS 
+                                                              PROJET  :DJACKS 
 ---
 
-                                                                Description du projet
+                                                              DESCRIPTION DU PROJET 
 
 CREATION D'UN SITE INTERNET AVEC  AGENT IA DE DISCUSSION 
 -
@@ -15,7 +15,7 @@ CREATION AGENT IA PRISE DE RDV ...
 ---
 
                                                             
-                                                           ETAPE DU PROJET **
+                                                           ETAPE DU PROJET 
 
  Fonctionnalité  :
 -
@@ -33,7 +33,7 @@ Fonctionnalité :
 
 
 
-                                                          🛠️ Technologies utilisées
+                                                          🛠️ TECHNOLOGIE 
 
 - Frontend : HTML5, CSS3, JavaScript 
 - Backend :MYySql ; Php , PhpMyAdmin , Api 
